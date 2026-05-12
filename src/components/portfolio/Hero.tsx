@@ -47,7 +47,7 @@ export function Hero() {
           transition={{ duration: 0.8, delay: 0.2 }}
           className="mx-auto mt-8 max-w-2xl text-center text-base leading-relaxed text-muted-foreground sm:text-lg"
         >
-          I'm <span className="text-ink font-medium">Rishika Reddy Chennuru</span> — a builder &amp; designer
+          I'm <span className="text-ink font-medium text-xl">Rishika Reddy Chennuru</span> — a builder &amp; designer
           shaping thoughtful products with machine learning, generative AI, and
           interfaces people actually enjoy using.
         </motion.p>
