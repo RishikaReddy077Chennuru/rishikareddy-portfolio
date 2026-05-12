@@ -34,9 +34,9 @@ export function Hero() {
           transition={{ duration: 0.9, delay: 0.05, ease: [0.22, 1, 0.36, 1] }}
           className="mx-auto max-w-4xl text-center text-[44px] leading-[1.02] tracking-[-0.03em] text-ink sm:text-6xl md:text-7xl"
         >
-          <span className="font-display italic text-gradient">Designing</span>{" "}
-          intelligent
-          <br className="hidden sm:block" /> digital experiences at the{" "}
+          <span className="font-display italic text-gradient">Designing</span> Intelligent
+          <br />
+          Digital experiences at the{" "}
           <span className="font-display italic text-gradient">intersection</span>{" "}
           of AI, data &amp; product.
         </motion.h1>
