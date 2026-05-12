@@ -53,7 +53,7 @@ export function Navbar() {
           className="ml-2 mr-3 hidden items-center gap-2 text-sm font-medium tracking-tight text-ink sm:flex"
         >
           <span className="inline-block h-2 w-2 rounded-full bg-[var(--lavender)] shadow-[0_0_12px_var(--lavender)]" />
-          <span className="text-ink font-bold text-xl">Hyderabad</span>
+          <span className="inline-block h-2 w-2 rounded-full bg-[var(--lavender)] shadow-[0_0_12px_var(--lavender)] opacity-0">Portfolio</span>
         </a>
         <ul className="flex items-center gap-0.5">
           {links.map((l) => (
