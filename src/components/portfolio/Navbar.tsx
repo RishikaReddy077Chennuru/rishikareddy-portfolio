@@ -50,10 +50,10 @@ export function Navbar() {
       >
         <a
           href="#top"
-          className="ml-2 mr-3 hidden items-center gap-2 text-sm font-medium tracking-tight text-ink sm:flex"
+          className="ml-2 mr-3 hidden items-center gap-2 font-medium tracking-tight text-ink sm:flex text-xs"
         >
           <span className="inline-block h-2 w-2 rounded-full bg-[var(--lavender)] shadow-[0_0_12px_var(--lavender)]" />
-          <span className="inline-block h-2 w-2 rounded-full bg-[var(--lavender)] shadow-[0_0_12px_var(--lavender)] opacity-0">Portfolio</span>
+          <span className="inline-block h-2 w-2 rounded-full bg-[var(--lavender)] shadow-[0_0_12px_var(--lavender)] opacity-0"></span>
         </a>
         <ul className="flex items-center gap-0.5">
           {links.map((l) => (
