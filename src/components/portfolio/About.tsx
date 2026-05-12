@@ -29,7 +29,7 @@ export function About() {
                 loading="lazy"
                 width={1024}
                 height={1280}
-                className="h-[460px] w-full rounded-2xl object-cover"
+                className="h-[460px] w-full rounded-none object-contain"
               />
               <div className="absolute bottom-6 left-6 right-6 glass flex items-center justify-between rounded-2xl px-4 py-3 text-xs">
                 <span className="text-ink font-medium">Hyderabad, India</span>
