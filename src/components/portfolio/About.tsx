@@ -51,10 +51,7 @@ export function About() {
             </p>
             <div className="mt-6 space-y-4 text-[15px] leading-relaxed text-muted-foreground">
               <p>
-                I'm a Data Science undergraduate at Malla Reddy University, currently in my
-                fifth semester. My work sits where machine learning meets thoughtful
-                interface design — building tools that feel as considered as they are
-                capable.
+                I’m a Data Science undergraduate at Malla Reddy University with an interest in AI, data analytics, and building practical digital solutions. I enjoy working on projects that combine technology with thoughtful user experience, whether that involves machine learning, web development, or data-driven problem solving.
               </p>
               <p>
                 I've represented Google as a Student Ambassador, shipped real-world
