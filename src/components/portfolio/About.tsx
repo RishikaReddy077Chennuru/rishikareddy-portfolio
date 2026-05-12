@@ -33,7 +33,7 @@ export function About() {
               />
               <div className="absolute bottom-6 left-6 right-6 glass flex items-center justify-between rounded-2xl px-4 py-3 text-xs">
                 <span className="text-ink font-medium">Rishika Reddy Chennuru</span>
-                <span className="text-muted-foreground">EST. 2023 → present</span>
+                <span className="text-muted-foreground">Hyderabad</span>
               </div>
             </div>
           </motion.div>
